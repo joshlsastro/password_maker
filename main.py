@@ -1,7 +1,7 @@
 NUMBER_OF_WORDS = 4
-SEPARATOR = '-'
-DO_CAPITALIZE = True
-ADD_NUMBER = True
+SEPARATOR = '-' # This separates words from numbers and each other
+DO_CAPITALIZE = True # This is True if each word is capitalized
+ADD_NUMBER = True # This is True if a number will be appended to the end
 ###################################################################
 from random import choice
 
