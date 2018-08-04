@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# Copyright (c) 2018 Josh Ellis
+
 NUMBER_OF_WORDS = 4
 SEPARATOR = '-' # This separates words from numbers and each other
 DO_CAPITALIZE = True # This is True if each word is capitalized
