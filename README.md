@@ -6,7 +6,7 @@ You just need a way to run Python code.
 
 ### How to Run
 
-Just run main.py in Python(it was tested with Python 3, but you should be fine with Python 2). If you need the password to be slightly different, change the variables **above** the obvious line of #s.
+Just run main.py in Python; it will prompt you for password parameters (it was tested with Python 3, but you should be fine with Python 2). If you don't want the interactive prompt, change the variables **above** the obvious line of #s.
 
 ## License
 
